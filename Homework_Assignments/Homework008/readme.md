@@ -14,4 +14,4 @@ Requirements
 
 Usage
 
-To run the tests, navigate to the directory containing the tests.py that is (Homework008/polls/tests.py
+To run the tests, navigate to the directory containing the tests.py that is (Homework008/polls/tests.py) and run the file.
